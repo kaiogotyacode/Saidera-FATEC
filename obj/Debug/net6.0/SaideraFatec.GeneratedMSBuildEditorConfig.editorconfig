@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS_SaideraFatec
+build_property.RootNamespace = CS_SaideraFatec
+build_property.ProjectDir = C:\Users\Kaio\Source\Repos\kaiogotyacode\saiderafatec\CS-SaideraFatec\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kaio\Source\Repos\kaiogotyacode\saiderafatec\CS-SaideraFatec
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/Register/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXFJlZ2lzdGVyXFNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/Register/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/CS-SaideraFatec/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MtU2FpZGVyYUZhdGVjXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-xevbcmi3oq
+
+[C:/Users/Kaio/Source/Repos/kaiogotyacode/saiderafatec/CS-SaideraFatec/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n91tedimav
