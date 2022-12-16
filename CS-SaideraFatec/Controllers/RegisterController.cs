@@ -6,6 +6,7 @@ namespace CS_SaideraFatec.Controllers
     {
         public IActionResult Signup()
         {
+            //teste
             return View();
         }
     }
